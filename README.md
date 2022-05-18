@@ -1,7 +1,7 @@
-<h3> 🖩 CalculadoraIMC </h3>
+<h3> CalculadoraIMC </h3>
 <p align="center"><strong>Calculadora de Indice de Massa Corporal</strong></p>
 
-<h3> 📔 Descrição do Projeto </h3>
+<h3> Descrição do Projeto </h3>
 <p align="center"><strong> Projeto feito para ajudar pessoas a calcular seu indice <br> 
 de massa corporal e mostrar para elas se seu peso está ideal para ela </strong></p>
 
